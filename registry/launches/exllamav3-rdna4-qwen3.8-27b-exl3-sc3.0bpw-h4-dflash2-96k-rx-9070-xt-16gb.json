@@ -2,7 +2,7 @@
   "id": "exllamav3-rdna4-qwen3.8-27b-exl3-sc3.0bpw-h4-dflash2-96k-rx-9070-xt-16gb",
   "engine": "exllamav3",
   "about": "Qwen3.8-27B EXL3 SC 3.0 bpw H4 + DFlash2 speculative decoding (3.0 bpw draft) on TabbyAPI, with RDNA4 kernels for gfx1201, as one container; from parth-thakre/exl3-rdna4-recipe",
-  "image": "ghcr.io/parth-thakre/exl3-rdna4@sha256:aec2d311b65d1ea393e81c9d431feadc4cefd27f689d92e208cb77c40bfbff8a",
+  "image": "ghcr.io/sybil-solutions/exl3-rdna4@sha256:e6848578634da8ed0a78de886d15b9ef857ce84b379257e4a0398c580bea8a49",
   "backend": "amd-rocm",
   "port": 8096,
   "entrypoint": null,
